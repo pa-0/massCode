@@ -133,7 +133,7 @@
     "unplugin-auto-import": "^0.6.6",
     "unplugin-icons": "^0.13.4",
     "unplugin-vue-components": "^0.18.1",
-    "vite": "^2.9.6",
+    "vite": "^2.9.17",
     "vue-tsc": "^0.30.6"
   },
   "engines": {
