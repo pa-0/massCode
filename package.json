@@ -46,7 +46,7 @@
     "@sipec/vue3-tags-input": "^3.0.4",
     "@types/universal-analytics": "^0.4.5",
     "@vueuse/core": "^8.3.1",
-    "axios": "^0.26.1",
+    "axios": "^0.28.0",
     "codemirror": "^5.65.7",
     "codemirror-textmate": "^1.1.0",
     "crypto-js": "^4.1.1",
