@@ -114,7 +114,7 @@
     "chokidar": "^3.5.2",
     "copyfiles": "^2.4.1",
     "dotenv": "^16.0.1",
-    "electron": "^16.2.3",
+    "electron": "^22.3.25",
     "electron-builder": "^23.1.0",
     "electron-notarize": "^1.2.1",
     "eslint": "^8.5.0",
